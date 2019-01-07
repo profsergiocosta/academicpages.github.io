@@ -3,6 +3,7 @@ layout: post
 category: 
 title: "Tutorial sobre banco de dados geográficos"
 tagline: 
+permalink: /posts/2018/11/tutorial-bd/
 tags : [gis, qgis, postgres, postgis, banco de dados] 
 published: true
 ---
