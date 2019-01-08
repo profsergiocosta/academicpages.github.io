@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-05-05-godel-theorem
 venue: "GELF - Grupo de Estudos em lógica"
-date: 2012-03-01
+date: 2017-05-05
 location: "UFMA - São Luís/MA"
 ---
 
