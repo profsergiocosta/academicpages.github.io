@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Críticas de Mário Bunge a Teoria da Escolha Racional"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: 'O presente trabalho tem como objetivo apresentar na visão dos autores as críticas de Bunge a teoria da escolha racional, identificar autores e teorias que concordam com Bunge, autores e teorias contrárias a ele, apresentar uma opinião própria sobre esse contexto. O trabalho foi desenvolvido a partir de pesquisa qualitativa em acervo bibliográfico. A estrutura em partes consta de introdução, contextualização, os fundamentos filosóficos de Bunge, crítica sobre a teoria da escolha, considerações sobre a crítica e fechando o trabalho a conclusão com a opinião modesta de um contador sobre um renomado filósofo.'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Soares, Francisco ; Costa, Sérgio Souza . Críticas de Mário Bunge a Teoria da Escolha Racional. In: Maria Edwiges Pires, Francy Meyre Gomes, Joao Conrado de A. Carvalho. (Org.). Coletânea do Pensamento Contábil. 1ed.: , 2018, v. , p. 100'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
