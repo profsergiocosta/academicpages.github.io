@@ -1,5 +1,4 @@
 ---
-layout: post 
 category: 
 title: "Traduçao do livro Real World Haskell "
 tagline: 
