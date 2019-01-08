@@ -7,7 +7,9 @@ tags : [gis, qgis, postgres, postgis, banco de dados]
 published: true
 ---
 
-**(Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI)**
+Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI
+
+
 **Sumário** 
 1. Programa e instalação
 2. Criando e manipulando dados com o pgAdmin III
