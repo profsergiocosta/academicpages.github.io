@@ -1,6 +1,4 @@
 ---
-layout: post 
-category: 
 title: "Linked data + Scala: primeiro contato"
 tagline: 
 tags : [scala,rdf,functional programming] 
