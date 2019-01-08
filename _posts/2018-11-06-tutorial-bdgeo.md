@@ -9,13 +9,8 @@ published: true
 
 Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI
 
+Nele iremos falar brevemente sobre o processo de instalação,criação e manipulação de dados com o pgAdmin III e Integração de banco de dados com sistemas de informação geográfica
 
-**Sumário** 
-1. Programa e instalação
-2. Criando e manipulando dados com o pgAdmin III
-3. Integração de banco de dados com sistemas de informação geográfica
-
-### 1. Programas e instalação
 Os programas usados neste tutorial são: QGIS, PostgreSQL, PgAdmin III, PostGIS e PostGIS Shapefile importer. Eles são relativamente simples para instalar, apenas do PostgresSQL será destacado alguns passos. O processo de instalação do QGIS é bem simples, podendo fazer a instalação padrão apenas pressionando o botão “Próximo”. Para este tutorial é possível utilizar o QGIS a partir da versão 2.11. Porém, aqui foi utilizado a versão 2.18.15. Você poderá baixar diretamente do site do QGIS, ou temporariamente no seguinte link: [QGIS 2.18.15](https://www.dropbox.com/s/orzsr7svplmptsj/QGIS-OSGeo4W-2.18.15-1-Setup-x86_64.exe?dl=0).  
 
 ![](https://lh4.googleusercontent.com/Cen1ctydfHDVCQM8WbLZ5iw1JrF63UfxCGRThaMWl4TdXoJXub72CYUlVHji6ZqgiFXyPYIw-JuA6P1r5QpcZpgy3J1CII6rcdYxT4yRKbcuFA7efFFqMaJBVwm3Xp3hKWjh0E_x)
