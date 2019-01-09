@@ -13,7 +13,7 @@ local actions interact with higher-level driving forces.
 Such intraregional interdependencies cannot be captured by studies at a single scale, calling for multiscale'
 date: 2009-08-17
 venue: 'Landscape Ecology'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://www.dpi.inpe.br/gilberto/papers/moreira_landscape_ecology_2009.pdf'
 citation: 'Moreira, Evaldinolia ; Costa, Sérgio Souza ; Aguiar, Ana Paula ; Câmara, Gilberto ; Carneiro, Tiago . Dynamical coupling of multiscale land change models. Landscape Ecology, p. ., 2009. '
 ---
 
