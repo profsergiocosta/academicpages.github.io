@@ -1,7 +1,7 @@
 ---
 title: "Dynamical coupling of multiscale land change models"
 collection: publications
-permalink: /publication/2009-dynamical-coupling-land-change
+permalink: /publication/2009-08-17-dynamical-coupling-land-change
 excerpt: 'No single model or scale can fully capture
 the causes of land change. For a given region, land
 changes may have different impacts at different
