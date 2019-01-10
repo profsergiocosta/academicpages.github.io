@@ -1,4 +1,3 @@
-
 ---
 title: "Migrating geoprocessing routines to web services for water resource management applications"
 collection: publications

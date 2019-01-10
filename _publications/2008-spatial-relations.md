@@ -1,4 +1,3 @@
-
 ---
 title: "Spatial relations across scales in land change models"
 collection: publications
