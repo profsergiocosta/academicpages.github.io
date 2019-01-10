@@ -9,7 +9,7 @@ date: 2017-08-01
 collection: projects
 ---
 
-[hellocode-rn](/images/hellocode-rn.jpg){:height="30%" width="30%"}
+![hellocode-rn](/images/hellocode-rn.jpg){:height="30%" width="30%"}
 
 
 ### Referências
