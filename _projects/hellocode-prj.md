@@ -5,10 +5,11 @@ pensamento. De acordo com Aho (2006) o pensamento computacional pode ser definid
 ser representadas como passos e algoritmos computacionais. Entendendo a importância desta forma de pensamento, diversos projetos no mundo todo tem buscado trabalha-la com alunos ainda no ensino
 básico, seja o infantil, fundamental ou médio. Este projeto tem como objetivo despertar nos jovens do ensino fundamental e médio de escolas públicas para a importância do pensamento computacional no seu
 desenvolvimento pessoal e profissional. Ele será desenvolvido por meio da abertura de turmas semestrais em algumas escolas selecionadas. Deste modo, no primeiro ano do projeto serão abertas duas turmas, como 18 alunos cada."
+date: 2017-08-01
 collection: projects
 ---
 
-[](/images/hellocode-rn.jpg){:height="30%" width="30%"}
+[hellocode-rn](/images/hellocode-rn.jpg){:height="30%" width="30%"}
 
 
 ### Referências
