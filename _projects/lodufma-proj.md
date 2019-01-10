@@ -7,3 +7,9 @@ collection: projects
 ---
 
 ### Publications
+
+* Silva, Micael Lopes ; Costa, Sérgio Souza ; Lima, Thamyla Maria de Sousa ; Silva, Thales . Um estudo exploratório sobre dados abertos em Universidades. In: Jornada de Informática do Maranhão - JIM 2016, 2016, São Luis, MA. JIM 2016 - VI Jornada de Informática do Maranhão, 2016.
+
+* Costa, Sérgio Souza; CAMINHA, J. B. . Abrindo os dado públicos da Universidade Federal do Maranhão ? Um breve estudo. In: Jornada de Informática do Maranhão, 2014, São Luis - MA. Jornada de Informática do Maranhão, 2014.
+
+
