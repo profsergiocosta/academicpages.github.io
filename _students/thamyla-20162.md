@@ -14,5 +14,5 @@ collection: students
 
 ### References
 
-* Indoor Mobile Localization Based on Wi-Fi Fingerprint's Important Access Point 
+* [Indoor Mobile Localization Based on Wi-Fi Fingerprint's Important Access Point](https://www.researchgate.net/publication/276902496_Indoor_Mobile_Localization_Based_on_Wi-Fi_Fingerprint's_Important_Access_Point)
 
