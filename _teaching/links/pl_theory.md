@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: Programming Language Theory
 ---
 
