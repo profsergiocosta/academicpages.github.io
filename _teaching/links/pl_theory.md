@@ -2,6 +2,22 @@
 title: Programming Language Theory
 ---
 
+Segundo (BEN-ARI,1996)
+
+> “A program is a sequence of symbols that specifies a computation. A programming language is a set of rules that specify which sequences of symbols constitute a program, and what computation the program describes." 
+
+Dento desta área de pesquisa, podemos dividir os conceitos, técnicas e metodologias por cada paradigma de programação. De acordo com 
+
+> “A paradigm is a distinctive style of programming. Each paradigm is characterized by the predominance of certain key concepts” (WATT, David , 2006). 
+
+Os principais paradigmas são:
+
+* Imperativo: estruturado e orientado a objetos
+* Declarativo: lógico e funcional
+
+Especificamente, o paradigma funcional é uma área de interesse, e junto com outros alunos e profissionais, criamos uma comunidade dedicada a programação funcional [LambdaMA](https://lambda-ma.github.io/).
+https://lambda-ma.github.io/
+
 
 **Selected**
 
@@ -28,6 +44,8 @@ title: Programming Language Theory
 - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
 - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
 - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
+- BEN-ARI, Monti. Understanding programming languages. John Wiley & Sons, Inc., 1996.
+- WATT, David A.; FINDLAY, William; HUGHES, John. Programming language concepts and paradigms. Englewood Cliffs: Prentice Hall, 1990.
 
 **Videos**
 
