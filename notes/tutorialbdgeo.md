@@ -6,11 +6,7 @@ date: 2018-11-06
 
 Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI
 
-Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI
-
 Nele iremos falar brevemente sobre o processo de instalação,criação e manipulação de dados com o pgAdmin III e Integração de banco de dados com sistemas de informação geográfica
-
-
 
 
 **Sumário** 
