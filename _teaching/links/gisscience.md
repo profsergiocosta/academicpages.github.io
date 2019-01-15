@@ -1,6 +1,5 @@
-
 ---
-layout: single
+layout: archive
 title: GIScience
 ---
 Segundo Mark (2003) GIScience é definido como 
