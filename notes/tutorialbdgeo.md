@@ -1,9 +1,7 @@
 ---
 title: "Tutorial sobre banco de dados geográficos"
-tagline: 
-layout:archive
+layout: archive
 date: 2018-11-06
-tags : [gis, qgis, postgres, postgis, banco de dados] 
 ---
 
 Esse tutorial foi baseado nas aulas do professor Eduilson Livio Neves da Costa Carneiro - IFPI
