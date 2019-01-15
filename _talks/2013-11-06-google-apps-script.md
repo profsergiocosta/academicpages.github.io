@@ -1,7 +1,7 @@
 ---
 title: "Conhecendo e explorando o Google Apps Script"
 collection: talks
-type: "talks"
+type: "Workshop"
 permalink: /talks/2013-11-06-google-apps-script
 venue: "JINF 13"
 date: 2013-11-06
