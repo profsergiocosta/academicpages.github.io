@@ -31,6 +31,8 @@ A seguir algumas referências relevantes.
 * [W3C Geospatial Vocabulary](https://www.w3.org/2005/Incubator/geo/XGR-geo-20071023/)
 * [Best Practice Recipes for Publishing RDF Vocabularies](NeoGeo Vocabulary: Defining a shared RDF representation for GeoData)
 * [Linked geodata](http://linkedgeodata.org/About)
+* Linked Data: Evolving the Web into a Global Data Space
+* Linked Data - Connect Distributed Data across the Web
 
 #### Ontology
 * [Lista de ontologias](http://info.slis.indiana.edu/~dingying/Teaching/S604/OntologyList.html)
@@ -42,4 +44,18 @@ A seguir algumas referências relevantes.
  * [shcool of data](https://schoolofdata.org/handbook/)
  * [Guia de dados abertos](http://opendatahandbook.org/guide/pt_BR/)
  * [Guias sobre dados abertos e web semântica](http://ceweb.br/publicacoes/indice/guias/)
+ 
+ 
+#### to check
+
+* RDF 1.1 Primer
+* SPARQL 1.1 Overview
+* W3C Data Activity: Building the Web of Data
+* Semantic Web Standards
+* Semantic Web Development Tools
+* An introduction to Semantic Web and Linked Data
+
+Rest
+* [Palestra Técnica do CISL: Desenvolvimento de API REST](https://www.youtube.com/watch?v=JfVBiogC_y4&feature=youtu.be)
+https://www.youtube.com/watch?v=psLrAsdHltQ&feature=youtu.be
  
