@@ -1,8 +1,8 @@
 ---
 title: "Tutorial sobre banco de dados geográficos"
 tagline: 
+layout:archive
 date: 2018-11-06
-permalink: /posts/2018/11/tutorial-bd/
 tags : [gis, qgis, postgres, postgis, banco de dados] 
 ---
 
