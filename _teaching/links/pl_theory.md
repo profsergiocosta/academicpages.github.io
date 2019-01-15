@@ -160,6 +160,42 @@ Category Theory
 - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
 - Basic Category Theory for Computer Scientists - Benjamin C. Pierce
 
+**to check**
+
+
+
+- C. A. R. Hoare. **An Axiomatic Basis for Computer Programming.** 1969. ([pdf](Hoare69.pdf))
+- Edsger W. Dijkstra. **Guarded Commands, Nondeterminacy and Formal Derivation of Programs.** 1975. ([pdf](Dijkstra75.pdf))
+- (Optional) C. A. R. Hoare. **Proof of a Program: FIND.** 1971. ([pdf](Hoare71.pdf))
+- Alonzo Church and J. B. Rosser. **Some Properties of Conversion.** 1936. ([pdf](ChurchRosser36.pdf))  
+- P. J. Landin. **The Next 700 Programming Languages.** 1966. ([pdf](Landin66.pdf))
+- Gerhard Gentzen. **Investigations into Logical Deduction.** 1935. ([pdf](Gentzen35.pdf))
+- P. J. Landin. **The Mechanical Evaluation of Expressions.** 1964. ([pdf](Landin64.pdf))
+- John McCarthy. **Recursive Functions of Symbolic Expressions and Their Computation By Machine, Part I.** 1960. ([pdf](McCarthy60.pdf))
+- Gordon Plotkin. **A Structural Approach to Operational Semantics.** 1981. ([pdf](Plotkin81.pdf))
+- C. A. R. Hoare. **Communicating Sequential Processes.** 1978. ([pdf](Hoare78.pdf))
+- Per Martin-Lof. **On the Meanings of the Logical Constants and the Justifications of the Logical Laws.** (The Siena Lectures) 1983. ([pdf](Martin-Lof83.pdf))
+- (Optional) Per Martin-Lof. **Intuitionistic Type Theory.** (The Padova Lectures) 1980. ([pdf](Martin-Lof80.pdf))
+- John Reynolds. **Definitional Interpreters for Higher-Order Programming Languages.** 1972. ([ps](Reynolds72.ps))
+- Dana Scott and Christopher Strachey. **Towards a Mathematical Semantics for Computer Languages.** 1971. ([pdf](Scott71.pdf), now with page 20)
+- Eugenio Moggi. **Computational Lambda-calculus and Monads.** 1989. ([pdf](Moggi89.pdf))
+- (Optional) Eugenio Moggi. **Notions of Computation and Monads.** 1991. ([pdf](Moggi91.pdf))
+- John Backus. **Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs.** 1978. ([pdf](Backus78.pdf))
+- John Reynolds. **The Essence of Algol.** 1981. ([ps](Reynolds81.ps))
+- W. A. Howard. **The Formulae-as-Types Notion of Construction.** 1969, 1980. ([pdf](Howard80.pdf))
+- John Reynolds. **Toward a Theory of Type Structure.** 1974. ([pdf](Reynolds74.pdf))
+- Chetan Murthy. **An Evaluation Semantics for Classical Proofs.** 1991. ([pdf](Murthy91.pdf))
+- John Reynolds. **Types, Abstraction, and Parametric Polymorphism.** 1983. ([pdf](Reynolds83.pdf))
+- (Optional) Christoper Strachey. **Fundamental Concepts in Programming Languages.** 1967. ([pdf](Strachey67.pdf))
+- John Mitchell and Gordon Plotkin. **Abstract Types have Existential Types.** 1985, 1988. ([pdf](MitchellPlotkin88.pdf))
+- David B. MacQueen. **Using Dependent Types to Express Modular Structure.** 1986. ([pdf](MacQueen86.pdf))
+- Robert Harper, John C. Mitchell, and Eugenio Moggi. **Higher-Order Modules and the Phase Distinction.** 1989. ([pdf](HarperEtal89.pdf))
+- Luis Damas and Robin Milner. **Principal Type-Schemes for Functional Programs.** 1982. ([pdf](DamasMilner82.pdf))
+- Dana Scott. **A Type-Theoretical Alternative to ISWIM, CUCH, OWHY.** 1969, 1993. ([pdf](Scott93.pdf))
+- Jean-Yves Girard. **Linear Logic.** 1987. ([pdf](Girard87.pdf))
+    Note: this paper is very long. Be sure at least to skim the whole thing.
+
+
 Other collections
 
 ----------
@@ -169,4 +205,5 @@ Other collections
 - [Lambda the Ultimate](http://lamda-the-ultimate.org/) - Ehud Lamm et al.
 - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/people/index.html) (stale but includes "classic") - Chris Rathman
 - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
+
 
