@@ -13,7 +13,7 @@ As ações humanas e os fenômenos naturais ocorrem no tempo e no espaço. Lidar
 
 * [Introdução a banco de dados geográfico (Slides) ](https://profsergiocosta.github.io/slides/minicurso_introducao_bdgeo.pdf)
 * [Tutorial SQL](https://www.w3schools.com/sql/)
-* [Tutorial sobre PostgreSQL/PostGIS](https://profsergiocosta.github.io/tutorial/tutorialbdg.html)
+* [Tutorial sobre PostgreSQL/PostGIS](../notes/tutorialbdgeo)
 
 #### Veja mais
 * [Lista de funções PostGIS](https://postgis.net/docs/manual-2.4/PostGIS_Special_Functions_Index.html)
