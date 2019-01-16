@@ -18,7 +18,7 @@ Amazonia. Results show that we need to set different arrangements to capture
 changes in agents’ behaviour, as they react to external conditions. Thus,
 combining the ideas of institutional arrangements and states improves the
 explanatory power of agent models for regional scales.'
-date: 2017-07-16
+date: 2012-11-20
 venue: 'Thesis - Instituto Nacional de Pesquisas Espaciais'
 citation: 'Costa, Sérgio Souza. Regional scale agent-based modelling of land change: evolving institutional arrangements in frontier areas – São José dos Campos : INPE, 2012.'
 paperurl: 'http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2012/10.30.12.50/doc/publicacao.pdf'
