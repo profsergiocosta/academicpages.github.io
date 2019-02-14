@@ -1,8 +1,8 @@
 ---
-title: "2019-1 Laboratório de Programação"
+title: "Laboratório de Programação"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/lp20191
+permalink: /teaching/laboratorio_programacao
 venue: "Engenharia da Computação - Universidade Federal do Maranhão"
 date: 2019-03-01
 location: "São Luís/MA"
