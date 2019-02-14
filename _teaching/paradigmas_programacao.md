@@ -2,7 +2,7 @@
 title: "Paradigmas de Programação"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/pp20191
+permalink: /teaching/paradigmas_programacao
 venue: "Engenharia da Computação - Universidade Federal do Maranhão"
 location: "São Luís/MA"
 ---
