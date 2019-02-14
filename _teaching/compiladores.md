@@ -1,5 +1,5 @@
 ---
-title: "2019-1 Compiladores"
+title: "Compiladores"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cp20191
