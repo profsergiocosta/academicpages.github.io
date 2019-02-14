@@ -10,6 +10,10 @@ date: 2019-03-01
 
 Principais paradigmas de linguagens de programação. Estudo comparativo dos paradigmas. Integração de paradigmas. Estudo detalhado de uma linguagem de programação baseada em um dos paradigmas apresentados.
 
+## Materiais
+
+* [Material para o semestre 2019.1](https://github.com/profsergiocosta/pp20191)
+
 ## Conteúdo programático
 
 
