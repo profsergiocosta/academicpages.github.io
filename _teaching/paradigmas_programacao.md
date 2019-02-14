@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/paradigmas_programacao
 venue: "Engenharia da Computação - Universidade Federal do Maranhão"
 location: "São Luís/MA"
+date: 2019-03-01
 ---
 
 Principais paradigmas de linguagens de programação. Estudo comparativo dos paradigmas. Integração de paradigmas. Estudo detalhado de uma linguagem de programação baseada em um dos paradigmas apresentados.
