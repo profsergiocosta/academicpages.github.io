@@ -64,10 +64,3 @@ Principais paradigmas de linguagens de programação. Estudo comparativo dos p
 2. Allen Tucker; Robert Noonan, Linguagens de Programação Princípios e Paradigmas, 2ª Edição, McGraw-Hill, 2009.
 3. Claudio Cesar de Sá e Marcio Ferreira da Silva. Haskell – Uma abordagem prática, Novatec, 2006. 
 
-
-## Links
-
-[Teoria sobre linguagem de programação](../links/pl_theory)
-
-
-
