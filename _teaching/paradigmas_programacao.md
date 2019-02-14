@@ -1,10 +1,9 @@
 ---
-title: "2019-1 Paradigmas de Programação"
+title: "Paradigmas de Programação"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/pp20191
 venue: "Engenharia da Computação - Universidade Federal do Maranhão"
-date: 2019-03-01
 location: "São Luís/MA"
 ---
 
