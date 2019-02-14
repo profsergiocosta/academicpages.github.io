@@ -1,8 +1,8 @@
 ---
-title: "2018-1 Banco de dados geográficos"
+title: "Banco de dados geográficos"
 collection: teaching
 type: "Gratuate course"
-permalink: /teaching/bdg20181
+permalink: /teaching/bdgeo
 venue: "Especialização em Geoprocessamento - Instituto Federal do Maranhão"
 date: 2018-03-01
 location: "São Luís/MA"
