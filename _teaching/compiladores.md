@@ -8,8 +8,13 @@ date: 2019-03-01
 location: "São Luís/MA"
 ---
 
+## Ementa
 
 Compiladores e interpretadores. Tipos de Compiladores. Análise Léxica. Tabela de Símbolos. Análise Sintática. Tratamento de erros sintáticos. Análise semântica. Geração de código. Noções de otimização de código. Ambiente em tempo de execução. Gerência de memória
+
+## Materiais
+
+* [Material para o semestre 2019.1](https://github.com/profsergiocosta/cp20191)
 
 ## Tópicos
 
