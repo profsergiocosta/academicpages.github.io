@@ -8,8 +8,6 @@ date: 2019-03-01
 location: "São Luís/MA"
 ---
 
-## Ementa
-
 Estudo detalhado de uma linguagem de programação. Estrutura da linguagem. Comandos e declarações. Tipos e Representações de dados. Mecanismos de entrada e saída de dados. Aplicações
 
 ## Materiais
