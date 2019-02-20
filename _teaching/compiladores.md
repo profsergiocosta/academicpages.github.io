@@ -2,7 +2,7 @@
 title: "Compiladores"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cp20191
+permalink: /teaching/compiladores
 venue: "Engenharia da Computação - Universidade Federal do Maranhão"
 date: 2019-03-01
 location: "São Luís/MA"
