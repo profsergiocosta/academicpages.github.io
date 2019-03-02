@@ -15,4 +15,6 @@ collection: projects
 
 ### Referências
 
+* [Pensamento Computacional - Documentos](www.computacional.com.br/index.html#documeantos)
+
 
