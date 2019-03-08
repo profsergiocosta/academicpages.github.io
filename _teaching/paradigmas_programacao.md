@@ -51,7 +51,6 @@ Principais paradigmas de linguagens de programação. Estudo comparativo dos p
 * 4.7 Java Reflection
 * 4.8 Lambda, Streams e Optionals
 
-
 ## Referências
 
 ### Básicas
