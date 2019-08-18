@@ -184,7 +184,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  students:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -242,7 +242,7 @@ defaults:
    # _students
   - scope:
       path: ""
-      type: students
+      type: research
     values:
       layout: single
       author_profile: true
