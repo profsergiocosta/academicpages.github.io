@@ -17,8 +17,8 @@ redirect_from:
 # Áreas de interesse
 
 
-# Teaching
-
 # Ensino
+
+# Projetos
 
 # Publicações
