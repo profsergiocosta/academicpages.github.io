@@ -12,14 +12,6 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Students"
-    url: /students/
-
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
