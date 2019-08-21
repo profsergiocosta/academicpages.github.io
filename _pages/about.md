@@ -23,7 +23,7 @@ Tenho interesses em divesas áreas, porém meus trabalhos com GIScience (Land Ch
 
 # TECNOLÓGIAS DE INTERESSE
 
-Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como Haskell, JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF.
+Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como Haskell, JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
 * [Paradigmas de Programação](https://github.com/profsergiocosta/pp2019_2)
