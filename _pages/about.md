@@ -20,7 +20,7 @@ redirect_from:
 * Paradigmas de Programação
 * Laboratório de Programação
 * Compiladores
-* Desenvolvimento de sistemas Web
+* [Desenvolvimento de sistemas Web (2019-1)](https://github.com/profsergiocosta/dsw20191/)
 * Banco de Dados Geográficos
 
 # MINICURSOS
@@ -43,13 +43,16 @@ redirect_from:
 
 # SOFTWARE
 
+* [DBCells - an architecture for publishing linked modelling data](https://github.com/profsergiocosta/dbcells)
+* [SIMPOT (Simple Python Object Triple mapping)](https://github.com/inovacampus/simpot)
+
 # PUBLICAÇÕES
 
 ## Periódicos
 
 * Silva, Micael Lopes ; Lima, Thamyla Maria de Sousa ; Moreira, E . DBCELLS - An open and Global Multi-Scale Linked Cells. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 69, p. 903-912, 2017. 
 
-Moreira, Evaldinolia ; Costa, Sérgio Souza ; Aguiar, Ana Paula ; Câmara, Gilberto ; Carneiro, Tiago . Dynamical coupling of multiscale land change models. Landscape Ecology, p. ., 2009
+* Moreira, Evaldinolia ; Costa, Sérgio Souza ; Aguiar, Ana Paula ; Câmara, Gilberto ; Carneiro, Tiago . Dynamical coupling of multiscale land change models. Landscape Ecology, p. ., 2009
 
 ## Capítulos de livros
 
