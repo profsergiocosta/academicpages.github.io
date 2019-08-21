@@ -14,6 +14,8 @@ redirect_from:
 
 # ÁREAS DE INTERESSE
 
+# TECNOLÓGIAS DE INTERESSE
+
 # ENSINO
 * Paradigmas de Programação
 * Laboratório de Programação
@@ -39,9 +41,26 @@ redirect_from:
 * Turing e o problema da decisão
 * Gödel’s incompleteness theorems
 
+# SOFTWARE
+
 # PUBLICAÇÕES
 
-# SOFTWARE
+## Periódicos
+
+* Silva, Micael Lopes ; Lima, Thamyla Maria de Sousa ; Moreira, E . DBCELLS - An open and Global Multi-Scale Linked Cells. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 69, p. 903-912, 2017. 
+
+Moreira, Evaldinolia ; Costa, Sérgio Souza ; Aguiar, Ana Paula ; Câmara, Gilberto ; Carneiro, Tiago . Dynamical coupling of multiscale land change models. Landscape Ecology, p. ., 2009
+
+## Capítulos de livros
+
+* Soares, Francisco ; Costa, Sérgio Souza . Críticas de Mário Bunge a Teoria da Escolha Racional. In: Maria Edwiges Pires, Francy Meyre Gomes, Joao Conrado de A. Carvalho. (Org.). Coletânea do Pensamento Contábil. 1ed.: , 2018, v. , p. 100-.
+
+* Costa, Sérgio Souza; SOUZA, S. S. ; MENDES, L. C. ; OBREGON, R. ; SILVA, L. E. ; Moreira, E ; FERREIRA, J. S. . Um estudo exploratório dos games para introdução ao pensamento computacional. In: Cláudia Regina Batista, Rosane de Fátima Antunes Obregon, Vania Ribas Ulbricht, Teruyuki Morita. (Org.). Hipermídia e interdisciplinaridade na geração de conhecimento. 1ed.: , 2015, v. , p. 181-210.
+
+* Costa, Sérgio Souza; Câmara, Gilberto ; Palomo, Danilo . TerraHS: Integration of Functional Programming and Spatial Databases for GIS Application Development. In: Davis, Clodoveu A.D. Jr.; Monteiro, Antonio M.V.M.. (Org.). Advances in Geoinformatics. 1ed.: Springer Berlin Heidelberg, 2007, v. , p. 127-149.
+
+
+
 
 
 
