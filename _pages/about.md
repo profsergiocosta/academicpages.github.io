@@ -13,9 +13,9 @@ Sou atualmente professor Adjunto da Universidade Federal do Maranhão. Tenho dou
 * Email: sergio.costa@ecp.ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
 
-Me identifiquei com a seguinte frase do livro Code Craft de Pete Goodliffe.
+Infelizmente, me identifiquei com a seguinte frase do livro Code Craft de Pete Goodliffe :(
 
-    "Programming is your passion. It’s sad, but it’s true." . (Pete Goodliffe, Code Craft)
+  "Programming is your passion. It’s sad, but it’s true." . (Pete Goodliffe, Code Craft)
 
 # ÁREAS DE INTERESSE
 
