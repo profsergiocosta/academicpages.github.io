@@ -8,24 +8,33 @@ redirect_from:
   - /about.html
 ---
 
+Sou atualmente professor Adjunto da Universidade Federal do Maranhão. Tenho doutorado e mestrado em Computação Aplicada pelo Instituto Nacional de Pesquisas Espacias (INPE). Minha gradução foi em Processamento de Dados pela Universidade Presidente Antônio Carlos (2003). 
+
 * Email: sergio.costa@ecp.ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
 
+Me identifiquei com a seguinte frase do livro Code Craft de Pete Goodliffe.
+
+    "Programming is your passion. It’s sad, but it’s true." . (Pete Goodliffe, Code Craft)
 
 # ÁREAS DE INTERESSE
 
+Tenho interesses em divesas áreas, porém meus trabalhos com GIScience (Land Change Models, Located Based Apps), Web Science (Open and linked data), Programming Languages (Functional Programming).
+
 # TECNOLÓGIAS DE INTERESSE
 
+Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como Haskell, JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF.
+
 # ENSINO
-* Paradigmas de Programação
-* Laboratório de Programação
-* Compiladores
+* [Paradigmas de Programação](https://github.com/profsergiocosta/pp2019_2)
+* [Laboratório de Programação](https://github.com/profsergiocosta/lp2019_2)
+* [Compiladores (2019-2)](https://github.com/profsergiocosta/cp2019_2)
 * [Desenvolvimento de sistemas Web (2019-1)](https://github.com/profsergiocosta/dsw20191/)
 * Banco de Dados Geográficos
 
 # MINICURSOS
 
-* Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos
+* [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
 * Introdução a Banco de Dados Geográficos
 * Conhecendo e explorando o Google Apps Script
 * Desenvolvendo Aplicativos para Android com o App Inventor
@@ -45,6 +54,8 @@ redirect_from:
 
 * [DBCells - an architecture for publishing linked modelling data](https://github.com/profsergiocosta/dbcells)
 * [SIMPOT (Simple Python Object Triple mapping)](https://github.com/inovacampus/simpot)
+* [Dados abertos UFMA](https://github.com/inovacampus/api-dadosabertos-ufma/)
+* [Dados conectados UFMA](https://github.com/inovacampus/linked-open-data-ufma)
 
 # PUBLICAÇÕES
 
