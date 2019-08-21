@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Ensino"
     url: /#ensino    
     
-  - title: "Projects"
-    url: /projects/
+  - title: "Projetos"
+    url: /#projetos
+
+  - title: "Publicações"
+    url: /#publicações
+
+  - title: "Minicursos"
+    url: /#minicursos
     
   - title: "Blog Posts"
     url: /year-archive/
