@@ -19,11 +19,11 @@ Infelizmente, me identifiquei com a seguinte frase do livro Code Craft de Pete G
 
 # ÁREAS DE INTERESSE
 
-Tenho interesses em divesas áreas, porém meus trabalhos com GIScience (Land Change Models, Located Based Apps), Web Science (Open and linked data), Programming Languages (Functional Programming).
+Tenho interesses em divesas áreas, porém meus trabalhos com [GIScience  (Land Change Models, Located Based Apps, Spatial Formal Models)](https://github.com/profsergiocosta/giscience-references), [Web Science (Open and linked data, Web semantics)](https://github.com/profsergiocosta/webscience-references), [Programming Languages (Functional Programming)](https://github.com/profsergiocosta/programming-references).
 
 # TECNOLÓGIAS DE INTERESSE
 
-Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como Haskell, JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
+Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
 * [Paradigmas de Programação](https://github.com/profsergiocosta/pp2019_2)
