@@ -63,6 +63,10 @@ Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, inclui
 
 * [Costa, Sérgio Souza. Regional scale agent-based modelling of land change: evolving institutional arrangements in frontier areas – São José dos Campos : INPE, 2012.](http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2012/10.30.12.50/doc/publicacao.pdf)
 
+## Mestrado
+
+* [Costa, Sérgio Souza. Integration of functional programming and spatial databases for gis application development – São José dos Campos: INPE, 2006.](http://mtc-m16b.sid.inpe.br/col/sid.inpe.br/MTC-m13@80/2006/12.15.17.07/doc/publicacao.pdf)
+
 ## Periódicos
 
 * Silva, Micael Lopes ; Lima, Thamyla Maria de Sousa ; Moreira, E . DBCELLS - An open and Global Multi-Scale Linked Cells. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 69, p. 903-912, 2017. 
