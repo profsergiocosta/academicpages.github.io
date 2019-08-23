@@ -27,7 +27,7 @@ Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, inclui
 
 # ENSINO
 * Paradigmas de Programação:[(2019-1)](https://github.com/profsergiocosta/pp20191) [(2019-2)](https://github.com/profsergiocosta/pp20192)
-* Laboratório de Programação:[2019-2]](https://github.com/profsergiocosta/lp20192)
+* Laboratório de Programação:[(2019-2)](https://github.com/profsergiocosta/lp20192)
 * Compiladores: [(2019-2)](https://github.com/profsergiocosta/cp20192)
 * Desenvolvimento de sistemas Web ([2019-1)](https://github.com/profsergiocosta/dsw20191/)
 * Banco de Dados Geográficos
