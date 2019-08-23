@@ -26,10 +26,10 @@ Tenho interesses em divesas áreas, porém meus trabalhos com [GIScience  (Land 
 Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (node.js), Python, Scala e Java . Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
-* [Paradigmas de Programação](https://github.com/profsergiocosta/pp2019_2)
-* [Laboratório de Programação](https://github.com/profsergiocosta/lp2019_2)
-* [Compiladores (2019-2)](https://github.com/profsergiocosta/cp2019_2)
-* [Desenvolvimento de sistemas Web (2019-1)](https://github.com/profsergiocosta/dsw20191/)
+* Paradigmas de Programação:[(2019-1)](https://github.com/profsergiocosta/pp20191) [(2019-2)](https://github.com/profsergiocosta/pp20192)
+* Laboratório de Programação:[2019-2]](https://github.com/profsergiocosta/lp20192)
+* Compiladores: [(2019-2)](https://github.com/profsergiocosta/cp20192)
+* Desenvolvimento de sistemas Web ([2019-1)](https://github.com/profsergiocosta/dsw20191/)
 * Banco de Dados Geográficos
 
 # MINICURSOS
