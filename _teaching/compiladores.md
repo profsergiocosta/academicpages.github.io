@@ -59,4 +59,6 @@ and Interpreters. Pearson Education, 2000
 
 - [Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages](https://pragprog.com/book/tpdsl/language-implementation-patterns)
 - [The LLVM Compiler Infrastructure](https://llvm.org/)
+- [https://thorstenball.com/](https://thorstenball.com/)
+
 
