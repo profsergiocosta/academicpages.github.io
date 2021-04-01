@@ -12,9 +12,9 @@ location: "São Luís/MA"
 
 Compiladores e interpretadores. Tipos de Compiladores. Análise Léxica. Tabela de Símbolos. Análise Sintática. Tratamento de erros sintáticos. Análise semântica. Geração de código. Noções de otimização de código. Ambiente em tempo de execução. Gerência de memória
 
-## Materiais
+## Anotações
 
-* [Material para o semestre 2019.1](https://github.com/profsergiocosta/cp20191)
+* [Anotações no Notion](https://www.notion.so/Compiladores-0e41590e91ef40ab83e68e9ef3fd609e)
 
 ## Tópicos
 
@@ -55,10 +55,6 @@ Aplicações. Elsevier, 2001.
 5. Watt D.A; Brown, D. F. Programming Language Processors in Java – Compilers
 and Interpreters. Pearson Education, 2000
 
-## Veja mais
 
-- [Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages](https://pragprog.com/book/tpdsl/language-implementation-patterns)
-- [The LLVM Compiler Infrastructure](https://llvm.org/)
-- [https://thorstenball.com/](https://thorstenball.com/)
 
 
