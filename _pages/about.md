@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Tenho doutorado e mestrado em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br). Minha gradução foi em Processamento de Dados pela Universidade Presidente Antônio Carlos (2003). 
+Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Sou doutor e mestre em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e Tecnólogo em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
 
 * Email: sergio.costa@ecp.ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
 
-  "Programming is your passion. It’s sad, but it’s true." . (Pete Goodliffe, Code Craft)
+  Programming is "my" passion. It’s sad, but it’s true. (Pete Goodliffe, Code Craft)
 
 # ÁREAS DE INTERESSE
 
@@ -24,7 +24,7 @@ Tenho interesses em divesas áreas, porém meus trabalhos estão mais relacionad
 Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (node.js), Python, Scala e Java. Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
-* Paradigmas de Programação:[(2019-1)](https://github.com/profsergiocosta/pp20191) [(2019-2)](https://github.com/profsergiocosta/pp20192)
+* [Paradigmas de Programação](https://github.com/profsergiocosta/pp20191)(https://profsergiocosta.github.io/teaching/laboratorio_programacao)
 * Laboratório de Programação:[(2019-2)](https://github.com/profsergiocosta/lp20192)
 * [Compiladores](https://profsergiocosta.github.io/teaching/compiladores)
 * Desenvolvimento de sistemas Web ([2019-1)](https://github.com/profsergiocosta/dsw20191/)
