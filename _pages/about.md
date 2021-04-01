@@ -37,7 +37,7 @@ Algumas disciplinas lecionadas entre 2013 e 2021.
 * [Introdução a programação funcional](https://www.notion.so/Introdu-o-a-programa-o-funcional-1a58702c3e984e82b81db4eeecc5459c)
 * [Banco de Dados Geográficos](https://profsergiocosta.github.io/teaching/bdgeo)
 
-# MINICURSOS
+# LABS
 
 * [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
 * [Introdução a Banco de Dados Geográficos](https://profsergiocosta.github.io/talks/2018-11-14-introducao_bdgeo)
