@@ -10,9 +10,9 @@ location: "São Luís/MA"
 
 Estudo detalhado de uma linguagem de programação. Estrutura da linguagem. Comandos e declarações. Tipos e Representações de dados. Mecanismos de entrada e saída de dados. Aplicações
 
-## Materiais
+## Anotações
 
-* [Material para o semestre 2019.1](https://github.com/profsergiocosta/lp20191)
+* [Anotações no Notion](https://www.notion.so/Laboratorio-de-programa-o-4d0bd222f13d4b3fa61152b834ef57ec)
 
 ## Conteúdo programático
 
