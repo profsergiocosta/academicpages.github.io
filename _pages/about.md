@@ -24,7 +24,7 @@ Tenho interesses em divesas áreas, porém meus trabalhos estão mais relacionad
 Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (node.js), Python, Scala e Java. Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
-* [Laboratório de Programação](https://github.com/profsergiocosta/pp20191)(https://profsergiocosta.github.io/teaching/laboratorio_programacao)
+* [Laboratório de Programação](https://profsergiocosta.github.io/teaching/laboratorio_programacao)
 * [Paradigmas de Programação](https://profsergiocosta.github.io/teaching/paradigmas_programacao)
 * [Compiladores](https://profsergiocosta.github.io/teaching/compiladores)
 * Desenvolvimento de sistemas Web ([2019-1)](https://github.com/profsergiocosta/dsw20191/)
