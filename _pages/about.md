@@ -10,7 +10,7 @@ redirect_from:
 
 Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Tenho doutorado e mestrado em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e graduação em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
 
-* Email: sergio.costa@ecp.ufma.br
+* Email: sergio.costa@ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
 
   Programming is "my" passion. It’s sad, but it’s true. (Pete Goodliffe, Code Craft)
