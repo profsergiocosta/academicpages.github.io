@@ -41,11 +41,13 @@ Algumas disciplinas lecionadas entre 2013 e 2021.
 
 Laboratórios, minicursos e oficinas.
 
+* [Laboratórios de Desenvolvimento de Software](https://www.notion.so/Laborat-rios-de-Desenvolvimento-de-Software-6b56d66f8f54468f95d6d8a2e9f34b92)
+* [Laboratórios de Banco de Dados Geográfico](https://www.notion.so/Laborat-rios-de-Banco-de-Dados-Geogr-fico-a44cf79918e44905b17fe9674f55c0f2)
 * [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
 * [Introdução a Banco de Dados Geográficos](https://www.notion.so/Minicurso-Banco-de-Dados-Geogr-fico-b5786d2bf3a248f28a980cf51c4b6522)
 * [Conhecendo e explorando o Google Apps Script](https://www.notion.so/Minicurso-Google-Apps-Script-ee79fb52563348b095f6a136ab39d7ed)
 * [Desenvolvendo Aplicativos para Android com o App Inventor](https://www.notion.so/Minicurso-Desenvolvendo-Aplicativos-para-Android-com-o-App-Inventor-a211574850654fa093d2a099636b1ab6)
-* [Introdução ao JQuery](https://profsergiocosta.github.io/talks/2016-11-10-introducao_jquery)
+* [Introdução ao JQuery](https://www.notion.so/Minicurso-Introdu-o-ao-JQuery-4f5589ab3e224c6985b13b092efb4cda)
 
 # PROJETOS
 * [HelloCode - Desenvolvendo o pensamento computacional](https://profsergiocosta.github.io/projects/hellocode-prj/)
