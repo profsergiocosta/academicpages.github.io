@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Doutor e mestre em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e Tecnólogo em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
+Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Tenho doutorado e mestrado em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e graduação em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
 
 * Email: sergio.costa@ecp.ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
@@ -24,10 +24,17 @@ Tenho interesses em divesas áreas, porém meus trabalhos estão mais relacionad
 Nos trabalhos com alguns alunos, tenho buscado usar diversas tecnologias, incluindo diferentes linguagens como [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (node.js), Python, Scala e Java. Frameworks como Flask, Adonis e Spring Boot, ReactJS, React Native. Tecnologias web como REST APIs, Triple Stores (fuseki), JSON e RDF. Para implantação, temos usado Docker, Vagrant, AWS e Heroku
 
 # ENSINO
+Algumas disciplinas lecionadas entre 2013 e 2021.
+
 * [Laboratório de Programação](https://profsergiocosta.github.io/teaching/laboratorio_programacao)
 * [Paradigmas de Programação](https://profsergiocosta.github.io/teaching/paradigmas_programacao)
 * [Compiladores](https://profsergiocosta.github.io/teaching/compiladores)
-* Desenvolvimento de sistemas Web ([2019-1)](https://github.com/profsergiocosta/dsw20191/)
+* [Engenharia de Software](https://www.notion.so/Engenharia-de-software-db95be4ef40c4c69b4b84c3a359472d6)
+* [Algoritmos - Introdução a Programação](https://www.notion.so/Algoritmos-introdu-o-a-programa-o-4e12ff3407b744f099dd1850cf5b6135)
+* Desenvolvimento de sistemas Web
+* Laboratório de desenvolvimento ágil de software
+* Fundamentos da computação
+* [Introdução a programação funcional](https://www.notion.so/Introdu-o-a-programa-o-funcional-1a58702c3e984e82b81db4eeecc5459c)
 * [Banco de Dados Geográficos](https://profsergiocosta.github.io/teaching/bdgeo)
 
 # MINICURSOS
