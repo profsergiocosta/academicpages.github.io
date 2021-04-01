@@ -39,9 +39,11 @@ Algumas disciplinas lecionadas entre 2013 e 2021.
 
 # LABS
 
+Laboratórios, minicursos e oficinas.
+
 * [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
-* [Introdução a Banco de Dados Geográficos](https://profsergiocosta.github.io/talks/2018-11-14-introducao_bdgeo)
-* [Conhecendo e explorando o Google Apps Script](https://profsergiocosta.github.io/talks/2013-11-06-google-apps-script)
+* [Introdução a Banco de Dados Geográficos](https://www.notion.so/Minicurso-Banco-de-Dados-Geogr-fico-b5786d2bf3a248f28a980cf51c4b6522)
+* [Conhecendo e explorando o Google Apps Script](https://www.notion.so/Minicurso-Google-Apps-Script-ee79fb52563348b095f6a136ab39d7ed)
 * [Desenvolvendo Aplicativos para Android com o App Inventor](https://profsergiocosta.github.io/talks/2014-09-02-mitappinventor)
 * [Introdução ao JQuery](https://profsergiocosta.github.io/talks/2016-11-10-introducao_jquery)
 
