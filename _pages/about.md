@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Sou doutor e mestre em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e Tecnólogo em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
+Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://www.ufma.br). Doutor e mestre em Computação Aplicada pelo [Instituto Nacional de Pesquisas Espacias (INPE)](http://www.inpe.br) e Tecnólogo em Processamento de Dados pela Universidade Presidente Antônio Carlos. 
 
 * Email: sergio.costa@ecp.ufma.br
 * Lattes: [Link currículo lattes](http://lattes.cnpq.br/2073311645132958)
