@@ -37,12 +37,22 @@ Algumas disciplinas lecionadas entre 2013 e 2021.
 * [Introdução a programação funcional](https://www.notion.so/Introdu-o-a-programa-o-funcional-1a58702c3e984e82b81db4eeecc5459c)
 * [Banco de Dados Geográficos](https://profsergiocosta.github.io/teaching/bdgeo)
 
-# LABS
-
-Laboratórios, minicursos e oficinas.
+Alguns laboratórios utilizados por uma ou mais disciplina.
 
 * [Laboratórios de Desenvolvimento de Software](https://www.notion.so/Laborat-rios-de-Desenvolvimento-de-Software-6b56d66f8f54468f95d6d8a2e9f34b92)
 * [Laboratórios de Banco de Dados Geográfico](https://www.notion.so/Laborat-rios-de-Banco-de-Dados-Geogr-fico-a44cf79918e44905b17fe9674f55c0f2)
+
+# TALKS
+
+## Apresentações,
+
+* Informação Geográfica nos Dispositivos Móveis
+* DBCells - an open and global multi-scale linked cells
+* Turing e o problema da decisão
+* Gödel’s incompleteness theorems
+
+## Minicursos e oficinas.
+
 * [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
 * [Introdução a Banco de Dados Geográficos](https://www.notion.so/Minicurso-Banco-de-Dados-Geogr-fico-b5786d2bf3a248f28a980cf51c4b6522)
 * [Conhecendo e explorando o Google Apps Script](https://www.notion.so/Minicurso-Google-Apps-Script-ee79fb52563348b095f6a136ab39d7ed)
@@ -50,17 +60,8 @@ Laboratórios, minicursos e oficinas.
 * [Introdução ao JQuery](https://www.notion.so/Minicurso-Introdu-o-ao-JQuery-4f5589ab3e224c6985b13b092efb4cda)
 
 # PROJETOS
+
 * [HelloCode - Desenvolvendo o pensamento computacional](https://profsergiocosta.github.io/projects/hellocode-prj/)
-* Uma solução de monitoramento de estacionamento usando crowdsensing participativo
-
-# APRESENTAÇÕES
-* Informação Geográfica nos Dispositivos Móveis
-* DBCells - an open and global multi-scale linked cells
-* Turing e o problema da decisão
-* Gödel’s incompleteness theorems
-
-# SOFTWARE
-
 * [DBCells - an architecture for publishing linked modelling data](https://github.com/profsergiocosta/dbcells)
 * [SIMPOT (Simple Python Object Triple mapping)](https://github.com/inovacampus/simpot)
 * [Dados abertos UFMA](https://github.com/inovacampus/api-dadosabertos-ufma/)
