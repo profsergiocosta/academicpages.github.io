@@ -71,6 +71,14 @@
         <li><a href="https://gitlab.com/{{ author.github }}"><i class="fab fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
       {% endif %}
       
+        {% if author.slideshare %}
+        <li><a href="https://www.slideshare.net/{{ author.slideshare }}"><i class="fab fa-slideshare" aria-hidden="true"></i>Slideshare</a></li>
+      {% endif %}
+      
+        {% if author.medium %}
+        <li><a href="https://medium.com/{{ author.medium }}"><i class="fab fa-slideshare" aria-hidden="true"></i>Medium</a></li>
+      {% endif %}
+      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fab -fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
