@@ -64,8 +64,8 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 * [HelloCode - Desenvolvendo o pensamento computacional](https://profsergiocosta.github.io/projects/hellocode-prj/)
 * [DBCells - an architecture for publishing linked modelling data](https://github.com/profsergiocosta/dbcells)
 * [SIMPOT (Simple Python Object Triple mapping)](https://github.com/inovacampus/simpot)
-* [Dados abertos UFMA](https://github.com/inovacampus/api-dadosabertos-ufma/)
-* [Dados conectados UFMA](https://github.com/inovacampus/linked-open-data-ufma)
+* [DBacademic]
+* [Open Campus Map]
 
 # PUBLICAÇÕES
 
