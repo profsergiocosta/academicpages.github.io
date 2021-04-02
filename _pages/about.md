@@ -62,10 +62,9 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 # PROJETOS
 
 * [HelloCode - Desenvolvendo o pensamento computacional](https://profsergiocosta.github.io/projects/hellocode-prj/)
-* [DBCells - an architecture for publishing linked modelling data](https://github.com/profsergiocosta/dbcells)
-* [SIMPOT (Simple Python Object Triple mapping)](https://github.com/inovacampus/simpot)
-* [DBacademic]
-* [Open Campus Map]
+* [DBCells - an architecture for publishing linked modelling data](http://www.dbcells.org/)
+* [DBacademic](https://dbacademic.github.io/)
+* [Open Campus Map](https://gitlab.com/lads-ecp/opencampus)
 
 # PUBLICAÇÕES
 
