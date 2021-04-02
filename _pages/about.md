@@ -44,12 +44,12 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 
 # TALKS
 
-## Apresentações,
+## Palestras e seminários
 
 * Informação Geográfica nos Dispositivos Móveis
-* DBCells - an open and global multi-scale linked cells
-* Turing e o problema da decisão
-* Gödel’s incompleteness theorems
+* [DBCells - an open and global multi-scale linked cells](https://pt.slideshare.net/skosta/dbcells-an-open-and-global-multiscale-linked-cells)
+* [Turing e o problema da decisão](https://pt.slideshare.net/skosta/turing-e-o-problema-da-deciso)
+* [Gödel’s incompleteness theorems](https://pt.slideshare.net/skosta/godels-incompleteness-theorems-88708429)
 
 ## Minicursos e oficinas.
 
