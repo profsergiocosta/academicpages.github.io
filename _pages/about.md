@@ -17,7 +17,7 @@ Sou atualmente professor Adjunto da [Universidade Federal do Maranhão](http://w
 
 # ÁREAS DE INTERESSE
 
-Tenho interesses em divesas áreas, porém meus trabalhos estão mais relacionados com: Geoinformatics, Software development e Web Technologies.
+Tenho interesses em divesas áreas, porém meus trabalhos estão mais localizados na intersecção entre Geoinformatics, Software development e Web Technologies.
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81294d73-3a8d-4e8c-8133-5ae71890c871/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210403T133300Z&X-Amz-Expires=86400&X-Amz-Signature=ee88d1e41c6e4abffc5abf68884f437ad5cfdd2a05ab99ff0bdc1006826b0d80&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
