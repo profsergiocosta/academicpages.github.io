@@ -81,11 +81,20 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 
 ## Periódicos
 
+* RIVERO, LUIS ; SALLES, CARLOS ; BONINI, TIAGO ; Costa, Sergio ; MEIRELES, MARIO . Um Relato de Experiência da Adaptação de um Evento Acadêmico Presencial para o Contexto Virtual em Tempos de Pandemia. Revista Brasileira de Informática na Educação (RBIE), v. 28, p. 934-955, 2020.
+
+* SILVA, A. A. M. ; LIMA-NETO, L. G. ; AZEVEDO, C. M. P. E. S. ; COSTA, L. M. M. ; BRAGANCA, M. L. B. M. ; BARROS FILHO, A. K. D. ; WITTLIN, B. B. ; SOUZA, B. F. de ; OLIVEIRA, B. L. C. A. ; CARVALHO, C. A. ; THOMAZ, E. B. A. F. ; SIMOES-NETO, E. A. ; LEITE JUNIOR, J. F. ; COSME, L. M. S. S. ; CAMPOS, M. A. G. ; QUEIROZ, R. C. S. ; Costa, Sérgio Souza ; CARVALHO, V. A. ; SIMOES, V. M. F. ; ALVES, M. T. S. S. B. E. ; SANTOS, A. M. . Population-based seroprevalence of SARS-CoV-2 and the herd immunity threshold in Maranhão. REVISTA DE SAUDE PUBLICA, v. 54, p. 1, 2020.
+Citações:2
+
+* GARCIA, DEYVISON AGUIAR ; Costa, Sérgio Souza ; MOREIRA, EVALDINOLIA GILBERTONI . PUBLICAÇÃO DE DADOS CONECTADOS PARA MODELOS DE USO E COBERTURA DA TERRA. Ravista Geonorte, v. 10, p. 77-94, 2019.
+
 * Silva, Micael Lopes ; Lima, Thamyla Maria de Sousa ; Moreira, E . DBCELLS - An open and Global Multi-Scale Linked Cells. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 69, p. 903-912, 2017. 
 
 * Moreira, Evaldinolia ; Costa, Sérgio Souza ; Aguiar, Ana Paula ; Câmara, Gilberto ; Carneiro, Tiago . Dynamical coupling of multiscale land change models. Landscape Ecology, p. ., 2009
 
 ## Capítulos de livros
+
+* Costa, Sérgio; Sousa, Mateus ; da Silva, Micael . Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos. Minicursos da ERCEMAPI e EAComp 2019. 1ed.: SBC, 2019, v. , p. 90-112.
 
 * Soares, Francisco ; Costa, Sérgio Souza . Críticas de Mário Bunge a Teoria da Escolha Racional. In: Maria Edwiges Pires, Francy Meyre Gomes, Joao Conrado de A. Carvalho. (Org.). Coletânea do Pensamento Contábil. 1ed.: , 2018, v. , p. 100-.
 
