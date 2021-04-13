@@ -46,9 +46,8 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 * [Laboratórios de Desenvolvimento de Software](https://www.notion.so/Laborat-rios-de-Desenvolvimento-de-Software-6b56d66f8f54468f95d6d8a2e9f34b92)
 * [Laboratórios de Banco de Dados Geográfico](https://www.notion.so/Laborat-rios-de-Banco-de-Dados-Geogr-fico-a44cf79918e44905b17fe9674f55c0f2)
 
-# TALKS
 
-## Palestras e seminários
+# Palestras e seminários
 
 * [A engenharia da internet por trás da IoT](https://speakerdeck.com/profsergiocosta/a-engenharia-da-internet-por-tras-da-iot)
 * [Informação Geográfica nos Dispositivos Móveis](https://speakerdeck.com/profsergiocosta/a-informacao-geografica-nos-dispositivos-moveis)
@@ -56,7 +55,7 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 * [Turing e o problema da decisão](https://pt.slideshare.net/skosta/turing-e-o-problema-da-deciso)
 * [Gödel’s incompleteness theorems](https://pt.slideshare.net/skosta/godels-incompleteness-theorems-88708429)
 
-## Minicursos e oficinas.
+# Minicursos e oficinas.
 
 * [Os cinco passos para transformar qualquer site de dados públicos em uma API de dados abertos](https://github.com/profsergiocosta/minicurso_ercemapi)
 * [Introdução a Banco de Dados Geográficos](https://www.notion.so/Minicurso-Banco-de-Dados-Geogr-fico-b5786d2bf3a248f28a980cf51c4b6522)
