@@ -37,6 +37,7 @@ Algumas disciplinas lecionadas entre 2013 e 2021.
 * Desenvolvimento de sistemas Web
 * Laboratório de desenvolvimento ágil de software
 * Fundamentos da computação
+* Estrutura de dados
 * [Introdução a programação funcional](https://www.notion.so/Introdu-o-a-programa-o-funcional-1a58702c3e984e82b81db4eeecc5459c)
 * [Banco de Dados Geográficos](https://profsergiocosta.github.io/teaching/bdgeo)
 
@@ -49,7 +50,8 @@ Alguns laboratórios utilizados por uma ou mais disciplina.
 
 ## Palestras e seminários
 
-* Informação Geográfica nos Dispositivos Móveis
+* [A engenharia da internet por trás da IoT](https://speakerdeck.com/profsergiocosta/a-engenharia-da-internet-por-tras-da-iot)
+* [Informação Geográfica nos Dispositivos Móveis](https://speakerdeck.com/profsergiocosta/a-informacao-geografica-nos-dispositivos-moveis)
 * [DBCells - an open and global multi-scale linked cells](https://pt.slideshare.net/skosta/dbcells-an-open-and-global-multiscale-linked-cells)
 * [Turing e o problema da decisão](https://pt.slideshare.net/skosta/turing-e-o-problema-da-deciso)
 * [Gödel’s incompleteness theorems](https://pt.slideshare.net/skosta/godels-incompleteness-theorems-88708429)
